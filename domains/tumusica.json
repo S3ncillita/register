@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "S3ncillita",
+    "email": "rodrignoah1@gmail.com"
+  },
+  "description": "Musica server tumusica",
+  "domain": "tumusica",
+  "records": {
+    "A": ["192.0.2.1"]
+  }
+}
